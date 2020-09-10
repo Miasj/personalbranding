@@ -3,6 +3,7 @@
 !wp-content/
 wp-content/uploads
 wp-content/languages
+wp-content/ai1wm-backups
 # macOS Files
 .DS_Store
 Thumb.db
