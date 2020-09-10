@@ -1,0 +1,10 @@
+/*
+!.gitignore
+!wp-content/
+wp-content/uploads
+wp-content/languages
+# macOS Files
+.DS_Store
+Thumb.db
+.cache
+wp-content/theme/astra/package-lock.json

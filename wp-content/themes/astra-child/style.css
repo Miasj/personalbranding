@@ -1,0 +1,17 @@
+/*
+ Theme Name:   Astra-child-theme
+ Theme URI:    http://mia-svejgaard.com
+ Description:  Astra Child Theme
+ Author:       Mia Svejgaard
+ Author URI:   http://mia-svejgaard.com
+ Template:     astra
+ Version:      1.2.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         childtheme
+ Text Domain:  nevechild
+*/
+
+body{background-color: #F2F0EC !important;}
+
+header{position: fixed;}
