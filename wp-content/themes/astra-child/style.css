@@ -12,6 +12,25 @@
  Text Domain:  nevechild
 */
 
-body{background-color: #F2F0EC !important;}
+body{background-color: #EDECE7 !important;}
 
-header{position: fixed;}
+.main-header-bar{  overflow: hidden !important;
+  position: fixed !important;
+  z-index:-3 !important; 
+}
+.main-header-menu 
+.menu-link, 
+.ast-header-custom-item a {
+    color: #000000 !important;
+    font-family: maven pro !important;
+    font-weight: 500 !important;
+    font-size: larger !important;
+}
+
+ .ast-mobile-menu-buttons-fill.menu-toggle{border: none !important;}
+
+.main-header-bar {
+ padding: 0%!important;}
+
+
+
